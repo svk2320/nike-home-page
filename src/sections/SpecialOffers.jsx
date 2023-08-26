@@ -30,7 +30,7 @@ const SpecialOffers = () => {
           desires, surpassing the loftiest expectations. Your journey with us is
           nothing short of exceptional.
           </p>
-          <div className="mt-111 flex flex-wrap gap-4">
+          <div className="mt-111 flex flex-wrap gap-4 mt-6">
             <Button label="Show now" iconURL={arrowRight}/>
             <Button
               label="Learn more"

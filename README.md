@@ -1,7 +1,6 @@
 # Nike Home Page
 
-![Nike Home Page Screenshot](![Uploading image.png…]()
-)
+![Nike Home Page Screenshot](screenshot.png)
 
 This project is a recreation of the Nike home page using React and Vite. It showcases the use of modern front-end tools and technologies to replicate the look and feel of the official Nike website's homepage.
 
